@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'My Site',
+  title: 'SFU OS Dev club Docs',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -67,7 +67,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'OS Dev Documentation',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -79,10 +79,10 @@ const config: Config = {
           position: 'left',
           label: 'Tutorial',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        // {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://github.com/sfuosdev',
+          label: 'OS Dev Github',
           position: 'right',
         },
       ],
@@ -103,15 +103,15 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
+              label: 'Instagram',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/2xn6cTKGUq',
             },
             {
-              label: 'Twitter',
+              label: 'LinkedIn',
               href: 'https://twitter.com/docusaurus',
             },
           ],
@@ -130,7 +130,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SFU Open Source Development Club, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

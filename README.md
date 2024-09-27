@@ -1,41 +1,13 @@
-# Website
+# SFU Open Source Development Club Documentation 
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This SFU OS Dev Documentation tool is built using [Docusaurus](https://docusaurus.io/), a modern static website generator and hosted by Github Page.
 
-### Installation
+[Click here to go to our Documentation](https://sfuosdev.github.io/Docs/)
 
-```
-$ yarn
-```
+### purpose of this tool
 
-### Local Development
+We invite you to contribute to the SFU OS Development Club's Documentation page, designed to support current and future students in Computer Science, Software Systems, Computer Engineering, and Computer Science minors, as well as anyone interested in starting their journey in Computer Science. Our goal is to provide valuable resources that will help individuals excel in group projects and stay ahead in their academic and professional endeavors.
 
-```
-$ yarn start
-```
+To contribute, please submit a Pull Request. Our executive team will review and confirm your submissions before they are published.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Thank you for your contributions and continued support!

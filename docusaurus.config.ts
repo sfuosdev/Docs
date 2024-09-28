@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'SFU OS Dev club Docs',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Friendly documentation tool for OS Dev club',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -85,6 +85,11 @@ const config: Config = {
           label: 'OS Dev Github',
           position: 'right',
         },
+        {
+          href: 'https://go.sfss.ca/clubs/867/info',
+          label: 'Join OS Dev',
+          position: 'right',
+        },
       ],
     },
     footer: {
@@ -104,7 +109,7 @@ const config: Config = {
           items: [
             {
               label: 'Instagram',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://www.instagram.com/sfu_osdev/',
             },
             {
               label: 'Discord',
@@ -112,25 +117,25 @@ const config: Config = {
             },
             {
               label: 'LinkedIn',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://www.linkedin.com/company/sfu-osdev',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Helpful resources',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Stack Overflow',
+              href: 'https://stackoverflow.com',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} SFU Open Source Development Club, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SFU Open Source Development Club. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

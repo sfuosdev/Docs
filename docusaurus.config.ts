@@ -39,7 +39,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/sfuosdev/Docs',
         },
         blog: {
           showReadingTime: true,
@@ -50,7 +50,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/sfuosdev/Docs',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -69,7 +69,7 @@ const config: Config = {
     navbar: {
       title: 'OS Dev Documentation',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'SFU OS Dev ',
         src: 'img/logo.svg',
       },
       items: [

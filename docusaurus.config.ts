@@ -69,8 +69,8 @@ const config: Config = {
     navbar: {
       title: 'OS Dev Documentation',
       logo: {
-        alt: 'SFU OS Dev ',
-        src: 'img/logo.svg',
+        alt: 'SFU OS Dev logo',
+        src: 'img/oslogo_transparent.svg',
       },
       items: [
         {

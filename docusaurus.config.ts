@@ -1,63 +1,61 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
-import type * as Preset from '@docusaurus/preset-classic';
+import { themes as prismThemes } from "prism-react-renderer";
+import type { Config } from "@docusaurus/types";
+import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: 'SFU OS Dev club Docs',
-  tagline: 'Friendly documentation tool for OS Dev club',
-  favicon: 'img/favicon.ico',
+  title: "SFU OS Dev club Docs",
+  tagline: "Friendly documentation tool for OS Dev club",
+  favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: 'https://sfuosdev.github.io',
+  url: "https://sfuosdev.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Docs',
+  baseUrl: "/Docs",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'sfuosdev', // Usually your GitHub org/user name.
-  projectName: 'Docs', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
+  organizationName: "sfuosdev", // Usually your GitHub org/user name.
+  projectName: "Docs", // Usually your repo name.
+  deploymentBranch: "gh-pages",
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/sfuosdev/Docs',
+          editUrl: "https://github.com/sfuosdev/Docs",
         },
         blog: {
           showReadingTime: true,
           feedOptions: {
-            type: ['rss', 'atom'],
+            type: ["rss", "atom"],
             xslt: true,
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/sfuosdev/Docs',
+          editUrl: "https://github.com/sfuosdev/Docs",
           // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          onInlineTags: "warn",
+          onInlineAuthors: "warn",
+          onUntruncatedBlogPosts: "warn",
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       } satisfies Preset.Options,
     ],
@@ -65,72 +63,72 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: "img/social-card.jpg",
     navbar: {
-      title: 'OS Dev Documentation',
+      title: "OS Dev Documentation",
       logo: {
-        alt: 'SFU OS Dev logo',
-        src: 'img/oslogo_transparent.svg',
+        alt: "SFU OS Dev logo",
+        src: "img/oslogo_transparent.svg",
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Tutorial',
+          type: "docSidebar",
+          sidebarId: "tutorialSidebar",
+          position: "left",
+          label: "Tutorial",
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/sfuosdev',
-          label: 'OS Dev Github',
-          position: 'right',
+          href: "https://github.com/sfuosdev",
+          label: "OS Dev Github",
+          position: "right",
         },
         {
-          href: 'https://go.sfss.ca/clubs/867/info',
-          label: 'Join OS Dev',
-          position: 'right',
+          href: "https://go.sfss.ca/clubs/867/info",
+          label: "Join OS Dev",
+          position: "right",
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Docs',
+          title: "Docs",
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: "Tutorial",
+              to: "/docs/intro",
             },
           ],
         },
         {
-          title: 'Community',
+          title: "Community",
           items: [
             {
-              label: 'Instagram',
-              href: 'https://www.instagram.com/sfu_osdev/',
+              label: "Instagram",
+              href: "https://www.instagram.com/sfu_osdev/",
             },
             {
-              label: 'Discord',
-              href: 'https://discord.gg/2xn6cTKGUq',
+              label: "Discord",
+              href: "https://discord.gg/2xn6cTKGUq",
             },
             {
-              label: 'LinkedIn',
-              href: 'https://www.linkedin.com/company/sfu-osdev',
+              label: "LinkedIn",
+              href: "https://www.linkedin.com/company/sfu-osdev",
             },
           ],
         },
         {
-          title: 'Helpful resources',
+          title: "Helpful resources",
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com',
+              label: "Stack Overflow",
+              href: "https://stackoverflow.com",
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com',
+              label: "GitHub",
+              href: "https://github.com",
             },
           ],
         },

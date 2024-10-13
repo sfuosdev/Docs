@@ -65,7 +65,7 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/social-card.jpg",
     navbar: {
-      title: "OS Dev Documentation",
+      title: "SFU OS Dev Docs",
       logo: {
         alt: "SFU OS Dev logo",
         src: "img/oslogo_transparent.svg",

@@ -1,6 +1,6 @@
 {
-  "label": "Tutorial - Extras",
-  "position": 4,
+  "label": "Git Documentation",
+  "position": 1,
   "link": {
     "type": "generated-index"
   }

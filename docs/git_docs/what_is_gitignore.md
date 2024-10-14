@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # .gitignore Best Practices
 
 The `.gitignore` file is a powerful tool in Git for specifying which files or directories should be ignored in version control. By keeping unnecessary or sensitive files out of your Git repository, you ensure a cleaner, more efficient workflow. This guide covers some best practices for creating and managing `.gitignore` files effectively.

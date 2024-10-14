@@ -1,3 +1,6 @@
+---
+sidebar_position: 7
+---
 # Git Best Practices
 
 When using Git for version control, following best practices can help maintain a clean and efficient project history, improve collaboration, and reduce errors. Here are some key best practices to keep in mind when working with Git.

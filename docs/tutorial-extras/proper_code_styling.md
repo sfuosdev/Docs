@@ -145,11 +145,3 @@ return a + b;
 This helps maintain a logical separation between different components, making the code easier to read.
 
 By following these practices, you will create code that is more readable, maintainable, and easier to debug, which is beneficial not only for you but also for other developers who may work with your code in the future.
-
-### Summary
-
-Bad Code Styling often lacks proper spacing, uses inconsistent naming conventions, crams everything into one line, and provides redundant or poorly formatted comments.
-
-Good Code Styling involves following conventions (appropriate to the language), using descriptive variable names and documentation, maintaining readability through spacing and line breaks, and writing comments that provide valuable context.
-
-Adhering to these guidelines ensures that your codebase is clean, easy to understand, and maintainable over time.

@@ -35,4 +35,32 @@ Thank you for your contributions and continued support!
 
 All the documentation needs to be done in markdown format and upload it to <code>docs</code> folder. 
 
+If you have one markdown file, you have to add up sidebar position at the top of the markdown file like this:
+
+```markdown
+---
+sidebar_position: 2
+---
+```
+
+If you have multiple markdown files, you should make a folder and add all your markdown files in that folder. Then you have to add up sidebar position at the top of the each markdown file like this:
+
+```markdown
+---
+sidebar_position: 2
+---
+```
+
+and have to add _category_.json file in the folder. The _category_.json file should look like this:
+
+```json title="_category_.json"
+{
+  "label": "Git Documentation",
+  "position": 1,
+  "link": {
+    "type": "generated-index"
+  }
+}
+```
+
 To contribute, please submit a Pull Request. Our executive team will review and confirm your submissions before they are published.

@@ -51,7 +51,7 @@ sidebar_position: 2
 ---
 ```
 
-and have to add _category_.json file in the folder. The _category_.json file should look like this:
+and have to add "_category_.json" file in the folder. The "_category_.json" file should look like this:
 
 ```json title="_category_.json"
 {

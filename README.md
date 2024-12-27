@@ -1,16 +1,16 @@
 <h4 align="center">
-    <br><img src="static/img/docusaurus.png" alt="docusaurus logo"></a>
-    <img src="static/img/logo.png" alt="osdev logo">
+    <br> <img src="static/img/logo.png" alt="osdev logo">
+    <img src="static/img/docusaurus.png" alt="docusaurus logo"></a> 
 </h4>
 
 <h4 align="center">SFU Open-source Development Club
     <br>SFU Open-source Development Club Documentation</h4>
-    <div>
+    <div align="center">
     <br>
-        <a href="." align="center">
+        <a href=".">
           <img src="https://github.com/sfuosdev/Docs/actions/workflows/deploy.yml/badge.svg"/>
         </a>
-    <div>
+    </div>
 </h4>
 
 <p align="center">

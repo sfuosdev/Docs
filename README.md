@@ -3,9 +3,9 @@
     <img src="static/img/logo.png" alt="osdev logo">
 </h4>
 
-<h4 align="center">SFU Open-source Development Club<br>
+<h4 align="center">SFU Open-source Development Club
     <br>SFU Open-source Development Club Documentation</h4>
-    <div>
+    <div align="center">
     <br>
         <a href=".">
           <img src="https://github.com/sfuosdev/Docs/actions/workflows/deploy.yml/badge.svg"/>
@@ -14,13 +14,10 @@
 </h4>
 
 <p align="center">
-    <a href="what-is-this">What is this?</a> 
-    <a href="purpose-of-this-tool">Purpose of this tool</a>
-    <a href="how-to-contribute">How to contribute</a>
+    <a href="#what-is-this">What is this?</a> •
+    <a href="#purpose-of-this-tool">Purpose of this tool</a> •
+    <a href="#how-to-contribute">How to contribute</a>
 </p>
-
-
-
 
 ### What is this?
 

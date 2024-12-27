@@ -5,9 +5,9 @@
 
 <h4 align="center">SFU Open-source Development Club
     <br>SFU Open-source Development Club Documentation</h4>
-    <div align="center">
+    <div>
     <br>
-        <a href=".">
+        <a href="." align="center">
           <img src="https://github.com/sfuosdev/Docs/actions/workflows/deploy.yml/badge.svg"/>
         </a>
     <div>

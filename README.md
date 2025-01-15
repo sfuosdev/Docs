@@ -4,7 +4,7 @@
 </h4>
 
 <h4 align="center">SFU Open-source Development Club
-    <br>SFU Open-source Development Club Documentation</h4>
+    <br>Docusauraus Documentation Tool</h4>
     <div align="center">
     <br>
         <a href=".">
@@ -33,7 +33,7 @@ Thank you for your contributions and continued support!
 
 ### How to contribute
 
-All the documentation needs to be done in markdown format and upload it to <code>docs</code> folder. 
+All the documentation needs to be done in markdown format and upload it to <code>docs</code> folder.
 
 If you have one markdown file, you have to add up sidebar position at the top of the markdown file like this:
 
@@ -61,6 +61,17 @@ and have to add `_category_.json` file in the folder. The `_category_.json` file
     "type": "generated-index"
   }
 }
+```
+
+The format will look as this:
+
+```txt
+── git-folder/
+│   ├── _catagory_.json
+│   ├── readme1.md
+│   ├── readme2.md
+│   ├── readme3.md
+│   ├── readme4.md
 ```
 
 To contribute, please submit a Pull Request. Our executive team will review and confirm your submissions before they are published.

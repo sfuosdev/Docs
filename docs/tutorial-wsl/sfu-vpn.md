@@ -13,10 +13,7 @@ Please refer to this **[page](https://sfu.teamdynamix.com/TDClient/255/ITService
 ---
 
 ## The Minimum requirements are as follows
-**[Windows](https://docs.fortinet.com/document/forticlient/6.4.3/windows-release-notes/549781/product-integration-and-support)**\
-**[Mac](https://docs.fortinet.com/document/forticlient/6.4.3/macos-release-notes/471180/product-integration-and-support)**\
-<<<<<<< HEAD
-**[Linux](https://docs.fortinet.com/document/forticlient/6.4.3/linux-release-notes/136392/product-integration-and-support)**
-=======
-**[Linux](https://docs.fortinet.com/document/forticlient/6.4.3/linux-release-notes/136392/product-integration-and-support)**
->>>>>>> 3ec76f77a0bfb12d2537d8d35d0b20f507d359e7
+[Windows](https://docs.fortinet.com/document/forticlient/6.4.3/windows-release-notes/549781/product-integration-and-support)\
+[Mac](https://docs.fortinet.com/document/forticlient/6.4.3/macos-release-notes/471180/product-integration-and-support)\
+[Linux](https://docs.fortinet.com/document/forticlient/6.4.3/linux-release-notes/136392/product-integration-and-support)
+

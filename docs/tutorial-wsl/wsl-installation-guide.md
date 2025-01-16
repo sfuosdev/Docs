@@ -26,9 +26,9 @@ The following list are tools you can use to use Linux on MacOS
  - VMware Fusion
 
 steps:
-    1. Download a Linus distribution ISO (e.g, Ubuntu) from the official site.
-    1. Install your choice of VM tool on you Mac
-    1. Create a new virtual machine and mount the ISO to install Linux.
+    1. Download a Linus distribution ISO (e.g, Ubuntu) from the official site.\
+    2. Install your choice of VM tool on you Mac\
+    3. Create a new virtual machine and mount the ISO to install Linux.
 
 The following list is links to the official website of each VMware to help installation
 

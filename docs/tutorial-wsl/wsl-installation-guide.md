@@ -32,6 +32,6 @@ steps:/
 
 The following list is links to the official website of each VMware to help installation
 
-- [Virtual box](https://www.virtualbox.org/wiki/Downloads?), [instructions](https://www.virtualbox.org/wiki/Mac%20OS%20X%20build%20instructions).\
-- [Parallel Desktop](https://www.parallels.com/plans/education/?srsltid=AfmBOoqQKFoOq-VO3TBdYJXCtliR1ShjnyIAt1ncySt6KchXOpO65_PW).\
+- [Virtual box](https://www.virtualbox.org/wiki/Downloads?), [instructions](https://www.virtualbox.org/wiki/Mac%20OS%20X%20build%20instructions).
+- [Parallel Desktop](https://www.parallels.com/plans/education/?srsltid=AfmBOoqQKFoOq-VO3TBdYJXCtliR1ShjnyIAt1ncySt6KchXOpO65_PW).
 - [VMware Fusion](https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html).

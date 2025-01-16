@@ -13,17 +13,21 @@ Type the following command to begin the Linux installation
 wsl --install
 ```
 
-This command will enable the features necessary to run WSL and install the Ubuntu distribution of Linux
+This command will enable the features necessary to run WSL and install the Ubuntu distribution of Linux.
+**Warning** the above command only works if WSL is not installed at all.
 
-# What you can do as a macOS user
+# MacOS
 If you want to run Linus on a Mac, there are additional steps you must take to achieve similar functionality as Windows users.
 
 ## Use a Virtual Machine
-- Tools like VirtualBox, Parallels Desktop, or VMware Fusion allows you to install and run a Linus distribution on maxOS
+The following list are tools you can use to use Linux on MacOS
+ - VirtualBox 
+ - Parallels Desktop
+ - VMware Fusion
 
-steps:
-    1. Download a Linus distribution ISO (e.g, Ubuntu) from the official site.
-    2. Install your choice of VM tool on you Mac
+steps:/
+    1. Download a Linus distribution ISO (e.g, Ubuntu) from the official site./
+    2. Install your choice of VM tool on you Mac/
     3. Create a new virtual machine and mount the ISO to install Linux.
 
 The following list is links to the official website of each VMware to help installation

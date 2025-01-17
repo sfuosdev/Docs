@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 
 ## Usage of Linux on MacOS
-macOS users needing a full Linux environment can use a virtual machine (VM) like VirtualBox or access a CSIL lab, where pre-configured Linux systems are available for development and testing.
+**MacOS** users needing a full Linux environment can use a virtual machine (VM) like VirtualBox or access a **Computer Science Instructional Lab (CSIL)** lab, where pre-configured Linux systems are available for development and testing.
 
 
 ## MacOS Subsystem for Linux Installation Guide

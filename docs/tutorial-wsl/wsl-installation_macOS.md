@@ -5,13 +5,6 @@ sidebar_position: 4
 ## Usage of Linux on MacOS
 **MacOS** users needing a full Linux environment can use a virtual machine (VM) like VirtualBox or access a **Computer Science Instructional Lab (CSIL)** lab, where pre-configured Linux systems are available for development and testing.
 
-
-## MacOS Subsystem for Linux Installation Guide
-
-Before you begin, ensure your system meets the following requirements:
-- **macOS 10.13 or later**
-- **Safari 12+, Firefox 78.1+, chrome 87+**
-
 ## Virtual Machines
 The best way to utilize **Linux** in MacOS is to use a Virutal machine. \
 The following is a list of tools you can use to utilize Linux on MacOS
@@ -83,3 +76,5 @@ There exists four major steps when using Virtual machines.
 ``` 
 sudo apt update && sudo apt upgrade
 ```
+
+## Follow along a youtube tutorial on getting started with VMs [**(Here)**](https://youtu.be/FeJyAjDoLEw?si=_92-ksvIbqvLyfmr)

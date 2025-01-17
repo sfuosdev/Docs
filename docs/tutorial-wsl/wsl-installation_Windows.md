@@ -42,4 +42,16 @@ This command will enable the features necessary to run WSL and install the Ubunt
     - [Debian](https://www.debian.org/distrib/)
     - [Kali Linux](https://www.kali.org/get-kali/#kali-platforms)
 
+## How to use WSL in Windows (VSCode)
+1. install the WSL extension in VSCode's extension tab
+2. Navigate to the folder you would like to open in VSCode
+3. Type the following in the terminal
+```
+code .
+```
+4. After a moment, a new VSCode will appear, and you will see this notification \
 
+![alt text](https://code.visualstudio.com/assets/docs/remote/wsl/wsl-starting-notification.png)
+
+Congratulation! You have successfully opened a WSL folder in VSCode.
+ 

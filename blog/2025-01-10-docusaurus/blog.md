@@ -1,9 +1,11 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+slug: how to write blog
+title: How to write blog
+authors: [tommy]
+tags: [how-to-use, docusaurus]
 ---
+
+Below description is from Docusaurus basic description of how to write blog.
 
 [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
 
@@ -26,4 +28,4 @@ A blog post folder can be convenient to co-locate blog post images:
 
 The blog supports tags as well!
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+Use a `<!--` `truncate` `-->` comment to limit blog post size in the list view.

@@ -78,11 +78,15 @@ const config: Config = {
           label: "Tutorial",
         },
         {
+          to: "/blog",
+          label: "PM / Exec",
+          position: "left",
+        },
+        {
           label: "Contribute",
           position: "left",
           href: "https://github.com/sfuosdev/Docs?tab=readme-ov-file#how-to-contribute",
         },
-        // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: "https://github.com/sfuosdev",
           label: "OS Dev Github",
@@ -104,6 +108,10 @@ const config: Config = {
             {
               label: "Tutorial",
               to: "/docs/intro",
+            },
+            {
+              label: "PM / Exec",
+              to: "/blog",
             },
           ],
         },

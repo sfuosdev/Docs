@@ -1,3 +1,18 @@
+how-to-use:
+  label: How to Use
+  permalink: /how-to-use
+  description: How to Use tag description
+
+project-management:
+  label: Project Management
+  permalink: /project-management
+  description: Project Management tag description
+
+executives:
+  label: Executives
+  permalink: /executives
+  description: Executives tag description
+
 facebook:
   label: Facebook
   permalink: /facebook

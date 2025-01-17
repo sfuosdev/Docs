@@ -2,46 +2,33 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to SFU Open Source Development Club! We are an official student club at Simon Fraser University aimed at bringing talented individuals from technology, design, and business. This documentation tool is built using [Docusaurus](https://docusaurus.io/), open source tool made by Meta (Facebook).
 
-## Getting Started
+## Purpose of this tool
 
-Get started by **creating a new site**.
+This tool has been designed to support current and future students in Computer Science, Software Systems, Computer Engineering, and Computer Science Minor, as well as anyone interested in starting their journey in Computer Science. Our goal is to provide valuable resources that will help individuals excel in group projects and stay ahead in their academic and professional endeavours. In our club documentation tool, there will be topics that you need to know for software development, such as how to use git, software development cycle, etc. We hope you learn a lot from this and impact future software projects!
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### SFU Open Source Development Club
 
-### What you'll need
+If you would like to know about us, click links below for more details:
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+For joining our Discord, please find SFU Open Source Dev Club in SFU student hub.
 
-## Generate a new site
+- Website: https://sfuosdev.com/
+- Github Organization page: https://github.com/sfuosdev
+- Instagram: https://www.instagram.com/sfu_osdev/
+- LinkedIn: https://www.linkedin.com/company/sfu-osdev/
 
-Generate a new Docusaurus site using the **classic template**.
+If you would like to join us? Welcome! Click the link below or click 'Join OS Dev' button top right corner:
 
-The classic template will automatically be added to your project after you run the command:
+- SFSS: https://go.sfss.ca/clubs/867/info
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## Contribution
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+While this tool exists for current and future students in technology, you can also write useful documentation for your future colleagues. Your contribution will be helpful for both the club and future colleagues, and we appreciate your help!
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+### How to Contribute
 
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+We have written a step-by-step tutorial in our Docs Github repository. To access it, please go to our [Docs repository](https://github.com/sfuosdev/Docs) or click the 'contribute' button at the header.

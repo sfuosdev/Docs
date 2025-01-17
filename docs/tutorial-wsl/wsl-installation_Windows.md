@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# What is Linux(WSL)?
+# What is Windows Subsystem for Linux?
 Linux (WSL), or the Windows Subsystem for Linux, is a feature in Windows that allows you to run Linux directly on your Windows computer without needing a virtual machine or dual-boot setup. It gives you access to a Linux terminal where you can use Linux commands, run scripts, and even install software from Linux distributions like Ubuntu or Debian. WSL is popular among developers and system administrators because it combines the convenience of Windows with the power of Linux, making tasks like coding, testing, and automating processes much easier.
 
 

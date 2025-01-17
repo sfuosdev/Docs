@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 # What is Linux(WSL)?
@@ -8,7 +8,7 @@ Linux (WSL), or the Windows Subsystem for Linux, is a feature in Windows that al
 
 ## Windows Subsystem for Linux (WSL) Installation Guide
 
-## **Prerequisites**
+### **Prerequisites**
 
 Before you begin, ensure your system meets the following requirements:
 - **Windows 10:** Version 2004 or higher.

@@ -68,6 +68,10 @@ WSL is a fantastic tool for developers who want to:
 - Great for cloud development and working on server-like environments.
 
 ---
+## **10. Community and Enterprise Adoption**
+- Courses such at **CMPT 125**, **CMPT 130**, **CMPT 135**, **CMPT 225** requires Linux to do Assignments and Projects.
+
+---
 
 ## **Who Should Use WSL?**
 - **Web Developers:** Optimize workflows with Linux tools and environments.

@@ -1,11 +1,12 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# What is Linux(WSL)?
-Linux (WSL), or the Windows Subsystem for Linux, is a feature in Windows that allows you to run Linux directly on your Windows computer without needing a virtual machine or dual-boot setup. It gives you access to a Linux terminal where you can use Linux commands, run scripts, and even install software from Linux distributions like Ubuntu or Debian. WSL is popular among developers and system administrators because it combines the convenience of Windows with the power of Linux, making tasks like coding, testing, and automating processes much easier.
+## Usage of Linux on MacOS
+macOS users needing a full Linux environment can use a virtual machine (VM) like VirtualBox or access a CSIL lab, where pre-configured Linux systems are available for development and testing.
 
-## MacOS Subsystem for Linux (WSL) Installation Guide
+
+## MacOS Subsystem for Linux Installation Guide
 
 Before you begin, ensure your system meets the following requirements:
 - **macOS 10.13 or later**

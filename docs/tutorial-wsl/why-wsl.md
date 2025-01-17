@@ -58,19 +58,12 @@ WSL is a fantastic tool for developers who want to:
 
 ---
 
-## **8. WSL 2: Enhanced Performance**
-- Includes a full Linux kernel for improved performance.
-- Native Docker support for containerized development.
-
----
-
-## **9. Cost-Effective**
+## **8. Cost-Effective**
 - Completely free and included with Windows.
 - No need to purchase additional hardware or software.
 
 ---
-
-## **10. Community and Enterprise Adoption**
+## **9. Community and Enterprise Adoption**
 - Many organizations are adopting WSL for its flexibility and integration.
 - Great for cloud development and working on server-like environments.
 

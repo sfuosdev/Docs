@@ -77,6 +77,11 @@ const config: Config = {
           position: "left",
           label: "Tutorial",
         },
+        {
+          label: "Contribute",
+          position: "left",
+          href: "https://github.com/sfuosdev/Docs?tab=readme-ov-file#how-to-contribute",
+        },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: "https://github.com/sfuosdev",

@@ -5,7 +5,7 @@ sidebar_position: 2
 # Why VPN is crucial
 A **VPN (Virtual Private Network)** is crucial because it protects your online privacy and security by encrypting your internet connection, hiding your IP address, and preventing unauthorized access to your data. It is especially vital when using public Wi-Fi, as it safeguards against hackers and cyber threats. Additionally, a VPN allows you to bypass geographical restrictions, access region-locked content, and avoid censorship, ensuring an open and secure internet experience.
 
-![](https://sosafe-awareness.com/sosafe-files/uploads/2024/01/VPN_Glossary_2-1024x456.png)
+![](https://sosafe-awareness.com/sosafe-files/uploads/2024/01/VPN_Glossary_2-1024x456.png) \
 A youtube video explaining the functionalities of VPN can be viewed [**(here)**](https://youtu.be/CWy3x3Wux6o?si=Lld_PYizzgmw0iH3)
 
 ---

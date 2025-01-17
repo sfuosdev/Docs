@@ -1,6 +1,6 @@
 {
     "label": "Tutorial - WSL",
-    "position": 5,
+    "position": 2,
     "link": {
       "type": "generated-index",
       "description": "Installation guide for WSL for both Windows and MacOS."

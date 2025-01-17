@@ -29,46 +29,19 @@ WSL is a fantastic tool for developers who want to:
 
 ---
 
-## **4. Seamless Windows Integration**
-- Access Linux files from Windows via `\wsl$` or File Explorer.
-- Run Windows commands from Linux, and vice versa.
-  ```bash
-  # Example: Open Notepad from WSL
-  notepad.exe
-  ```
-
----
-
-## **5. Perfect for Web Development**
-- Run web development workflows on Linux while testing on Windows browsers.
-- Use Docker efficiently on WSL 2 with its native Linux kernel.
-
----
-
-## **6. Supports Modern Development Tools**
+## **5. Supports Modern Development Tools**
 - Use tools like Git, Vim, and Emacs natively in WSL.
 - Leverage DevOps workflows with Ansible, Terraform, and Kubernetes.
 - Run data science tools and machine learning frameworks in a Linux environment.
 
 ---
 
-## **7. Learn and Experiment with Linux**
-- WSL provides an easy way to explore Linux without dual-booting or risky installations.
-- Ideal for students, hobbyists, and professionals.
-
----
-
-## **8. Cost-Effective**
+## **6. Cost-Effective**
 - Completely free and included with Windows.
 - No need to purchase additional hardware or software.
 
 ---
-## **9. Community and Enterprise Adoption**
-- Many organizations are adopting WSL for its flexibility and integration.
-- Great for cloud development and working on server-like environments.
-
----
-## **10. Community and Enterprise Adoption**
+## **7. Course Requirements**
 - Courses such at **CMPT 125**, **CMPT 130**, **CMPT 135**, **CMPT 225** requires Linux to do Assignments and Projects.
 
 ---

@@ -74,4 +74,24 @@ The format will look as this:
 │   ├── readme4.md
 ```
 
+After that process, you need to add your section in <code>sidebars.ts</code> in order to display in documentation section.
+
+```ts
+tutorialSidebar: [
+  "intro",
+  {
+    type: "category",
+    label: "WSL Installation",
+    items: [
+      "tutorial-wsl/sfu-vpn",
+      "tutorial-wsl/why-wsl",
+      "tutorial-wsl/wsl-installation_Windows",
+      "tutorial-wsl/wsl-installation_macOS",
+    ],
+  },
+];
+```
+
 To contribute, please submit a Pull Request. Our executive team will review and confirm your submissions before they are published.
+
+Thank you for your contribution!

@@ -78,24 +78,33 @@ const config: Config = {
           label: "Tutorial",
         },
         {
+          type: "docSidebar",
+          sidebarId: "pmSidebar",
+          position: "left",
+          label: "Project Management",
+        },
+        {
+          type: "docSidebar",
+          sidebarId: "execSidebar",
+          position: "left",
+          label: "Exec",
+        },
+        {
           to: "/blog",
-          label: "PM / Exec",
+          label: "Blog",
           position: "left",
         },
         {
-          label: "Contribute",
-          position: "left",
-          href: "https://github.com/sfuosdev/Docs?tab=readme-ov-file#how-to-contribute",
+          type: "html",
+          position: "right",
+          value:
+            '<a href="https://github.com/sfuosdev" target="_blank" style="content: \'\'; width: 24px; height: 24px; background-image: url(\'https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg\'); background-repeat: no-repeat; background-size: 24px 24px; display: flex"></a>',
         },
         {
-          href: "https://github.com/sfuosdev",
-          label: "OS Dev Github",
+          type: "html",
           position: "right",
-        },
-        {
-          href: "https://go.sfss.ca/clubs/867/info",
-          label: "Join OS Dev",
-          position: "right",
+          value:
+            '<a href="https://discord.gg/2xn6cTKGUq" target="_blank" style="display: flex; align-items: center;"><img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" alt="Discord" style="width: 24px; height: 24px; margin-right: 8px;" /></a>',
         },
       ],
     },
@@ -110,8 +119,12 @@ const config: Config = {
               to: "/docs/intro",
             },
             {
-              label: "PM / Exec",
-              to: "/blog",
+              label: "Project Management",
+              to: "/docs/intro-pm",
+            },
+            {
+              label: "Exec",
+              to: "/docs/intro-exec",
             },
           ],
         },

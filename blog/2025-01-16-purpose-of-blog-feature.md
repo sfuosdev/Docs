@@ -1,5 +1,5 @@
 ---
-slug: welcome
+slug: blog-feature
 title: Purpose of blog feature
 authors: [tommy]
 tags: [how-to-use, docusaurus]
@@ -7,11 +7,9 @@ tags: [how-to-use, docusaurus]
 
 <!-- truncate -->
 
-The SFU Open Source Development Club will use the Docusaurus Blog feature to document the responsibilities and tips of project leads and club executives. The blogs can be based on personal experience or basic knowledge.
+The SFU Open Source Development Club will use the Docusaurus Blog feature to show the documentation update and may add acknowledgement of the documentation. Writing blog posts strictly only for Presidents and Director of Technology.
 
-With permission from the club presidents, any SFU OS Dev Club executives, ex-executives, project leads (project managers), and project members can write blog posts. Blog posts can be .md or .mdx format.
-
-If you are willing to write blog, please make your profiles in <code>authors.yml</code>:
+If you are writing blog, please make your profiles in <code>authors.yml</code>:
 
 ```yml
 slorber:

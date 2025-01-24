@@ -31,4 +31,4 @@ While this tool exists for current and future students in technology, you can al
 
 ### How to Contribute
 
-We have written a step-by-step tutorial in our Docs Github repository. To access it, please go to our [Docs repository](https://github.com/sfuosdev/Docs) or click the 'contribute' button at the header.
+We have written a step-by-step tutorial in our Docs Github repository. To access it, please go to our [Docs repository](https://github.com/sfuosdev/Docs?tab=readme-ov-file#how-to-contribute).

@@ -18,6 +18,11 @@ executives:
   permalink: /executives
   description: Executives tag description
 
+project-lead:
+  label: Project Lead
+  permalink: /project-lead
+  description: Project Lead tag description
+
 facebook:
   label: Facebook
   permalink: /facebook

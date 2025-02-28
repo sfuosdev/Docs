@@ -23,3 +23,13 @@ tommy:
   socials:
     linkedin: tommy-oh-766450217
     github: TommyOh0428
+
+ethan:
+  name: Ethan Cratchley
+  title: Project Lead @ Financial Fast Feed
+  url: https://github.com/EthanCratchley//github.com/TommyOh0428
+  image_url: https://github.com/EthanCratchley.png
+  page: true
+  socials:
+    linkedin: ethan-cratchley
+    github: EthanCratchley

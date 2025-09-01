@@ -61,7 +61,13 @@ const sidebars: SidebarsConfig = {
     },
   ],
 
-  execSidebar: ["intro-exec"],
+  execSidebar: [
+    "intro-exec",
+    "president-team",
+    "tech-team",
+    "strat-team",
+    "event-comms-team",
+  ],
 };
 
 export default sidebars;

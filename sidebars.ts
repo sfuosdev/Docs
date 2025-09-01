@@ -63,47 +63,10 @@ const sidebars: SidebarsConfig = {
 
   execSidebar: [
     "intro-exec",
-    {
-      type: "category",
-      label: "President Team",
-      items: [
-        "club-execs/presidents/president-team",
-        "club-execs/presidents/business-president",
-        "club-execs/presidents/tech-president",
-      ],
-    },
-    {
-      type: "category",
-      label: "Technology Teams",
-      items: [
-        "club-execs/directors/director-of-tech",
-        "club-execs/teams/tech-team",
-      ],
-    },
-    {
-      type: "category",
-      label: "Events Team",
-      items: [
-        "club-execs/directors/director-of-event",
-        "club-execs/teams/event-team",
-      ],
-    },
-    {
-      type: "category",
-      label: "Strategy Team",
-      items: [
-        "club-execs/directors/director-of-strat",
-        "club-execs/teams/strat-team",
-      ],
-    },
-    {
-      type: "category",
-      label: "Communications Team",
-      items: [
-        "club-execs/directors/director-of-comms",
-        "club-execs/teams/comm-team",
-      ],
-    },
+    "president-team",
+    "tech-team",
+    "strat-team",
+    "event-comms-team",
   ],
 };
 

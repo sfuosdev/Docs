@@ -1,0 +1,37 @@
+name: Documentation Issue Template
+description: Use this template to contribute to our documentation.
+labels: "documentation"
+title: "[Documentation]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        First of all, thank you for taking the time to report an issue with our documentation. To help us understand and resolve the issue more efficiently, please provide as much detail as possible in the following sections.
+
+  - type: input
+    id: documentation_issue_summary
+    attributes:
+      label: Documentation topic
+      description: Please provide a brief summary of the documentation topic that you would like to add.
+
+  - type: textarea
+    id: documentation_issue_description
+    attributes:
+      label: Documentation issue description
+      description: Please provide a detailed description of the documentation that you would like to see improved or added.
+
+  - type: dropdown
+    id: documentation_section
+    attributes:
+      label: which section of the documentation does this topic related to?
+      options:
+        - Tutorials
+        - Project Management
+        - Executives
+        - Blog
+
+  - type: textarea
+    id: documentation_issue_additional_info
+    attributes:
+      label: Additional information
+      description: Please provide any additional information that you think would be helpful for us to understand the topic better, such as links to relevant resources, examples, or screenshots.

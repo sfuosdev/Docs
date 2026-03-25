@@ -1,0 +1,27 @@
+name: Functionality Request Template
+description: Use this template to request new features or improvements to existing functionality to our documentation.
+labels: "functionality"
+title: "[Functionality]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please use this template to request new features or improvements to existing functionality in our documentation. To help us understand and prioritize your request, please provide as much detail as possible in the following sections.
+
+  - type: input
+    id: functionality_request_summary
+    attributes:
+      label: Functionality request summary
+      description: Please provide a brief summary of the functionality that you would like to see added or improved.
+
+  - type: textarea
+    id: functionality_request_description
+    attributes:
+      label: Functionality request description
+      description: Please provide a detailed description of the functionality that you would like to see added or improved, including any specific features or use cases that you have in mind.
+
+  - type: textarea
+    id: functionality_request_additional_info
+    attributes:
+      label: Additional information
+      description: Please provide any additional information that you think would be helpful for us to understand the functionality request better, such as links to relevant resources, examples, or screenshots.

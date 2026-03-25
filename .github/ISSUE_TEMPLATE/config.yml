@@ -1,0 +1,9 @@
+---
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://sfuosdev.github.io/Docs/
+    about: Visit our documentation and give us more ideas to improve it or contribute to it.
+  - name: Website
+    url: https://sfuosdev.com/
+    about: Visit our website to learn more about our project and its features.
